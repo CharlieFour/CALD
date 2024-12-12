@@ -2,7 +2,7 @@
     INCLUDE Irvine32.inc
 
     .data
-        message BYTE "Computer Architecture and Logical Design, project and lab assembly code", 0
+        message BYTE "Computer Architecture and Logical Design, project and lab assembly and c++ code", 0
 
     .code
     main PROC
